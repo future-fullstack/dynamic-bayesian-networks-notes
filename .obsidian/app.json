@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "附件",
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "livePreview": true,
+  "newFileLocation": "current",
+  "readableLineLength": true
+}
